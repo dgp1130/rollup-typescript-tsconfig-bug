@@ -1,0 +1,19 @@
+{
+  "name": "rollup-tsconfig",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "rollup --config"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@rollup/plugin-typescript": "4.1.2",
+    "rollup": "2.11.2",
+    "typescript": "3.9.3"
+  },
+  "dependencies": {
+    "tslib": "2.0.0"
+  }
+}

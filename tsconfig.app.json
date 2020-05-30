@@ -1,0 +1,4 @@
+{
+  // Just extends the base config, no meaningful changes.
+  "extends": "./tsconfig.json",
+}
