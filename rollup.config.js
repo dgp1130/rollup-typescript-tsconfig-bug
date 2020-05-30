@@ -9,7 +9,7 @@ export default {
     plugins: [
         typescript({
             // Fails to build when enabled.
-            // tsconfig: './tsconfig.app.json',
+            tsconfig: './tsconfig.app.json',
         }),
     ],
 };
